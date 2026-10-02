@@ -33,12 +33,12 @@
 
 ### What I understood
 
-[Write what you understood during Week 1.]
+I understood the basic differences between AI, machine learning, deep learning, generative AI, and AI agents. I also learned that AI outputs should be checked instead of being accepted automatically.
 
 ### What still confuses me
 
-[Write anything that is still unclear.]
+I am still learning the difference between an LLM application, a RAG system, a tool-using assistant, and an AI agent.
 
 ### One thing I will verify differently next time
 
-[Write one thing you will do differently when using AI.]
+Next time, I will check important AI-generated claims against an independent reliable source instead of relying only on the AI answer.
